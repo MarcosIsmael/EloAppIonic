@@ -1,0 +1,7 @@
+{
+  "name": "elo-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
